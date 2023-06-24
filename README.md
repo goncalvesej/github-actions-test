@@ -1,2 +1,1 @@
-
-
+[![Python Script Workflow](https://github.com/goncalvesej/github-actions-test/actions/workflows/main.yml/badge.svg)](https://github.com/goncalvesej/github-actions-test/actions/workflows/main.yml)
